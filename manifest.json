@@ -2,6 +2,28 @@
   "version": 1,
   "regions": [
     {
+      "id": "us-al",
+      "name": "United States — Alabama (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-al.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 19,
+      "sizeBytes": 2386895,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ak",
+      "name": "United States — Alaska (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ak.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 22,
+      "sizeBytes": 1414831,
+      "updatedAt": 1781025030550
+    },
+    {
       "id": "us-az",
       "name": "United States — Arizona (FAA)",
       "country": "US",
@@ -10,7 +32,18 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 43,
       "sizeBytes": 2766904,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ar",
+      "name": "United States — Arkansas (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ar.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 13,
+      "sizeBytes": 1264050,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-ca",
@@ -21,7 +54,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 160,
       "sizeBytes": 9719137,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-co",
@@ -32,7 +65,40 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 27,
       "sizeBytes": 1679225,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ct",
+      "name": "United States — Connecticut (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ct.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 9,
+      "sizeBytes": 1092503,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-de",
+      "name": "United States — Delaware (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-de.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 2,
+      "sizeBytes": 314520,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-fl",
+      "name": "United States — Florida (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-fl.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 103,
+      "sizeBytes": 7807139,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-ga",
@@ -43,7 +109,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 34,
       "sizeBytes": 3025875,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-hi",
@@ -54,7 +120,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 23,
       "sizeBytes": 1347137,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-id",
@@ -65,7 +131,150 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 11,
       "sizeBytes": 1128807,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-il",
+      "name": "United States — Illinois (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-il.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 34,
+      "sizeBytes": 3804317,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-in",
+      "name": "United States — Indiana (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-in.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 19,
+      "sizeBytes": 3088545,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ia",
+      "name": "United States — Iowa (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ia.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 7,
+      "sizeBytes": 1115690,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ks",
+      "name": "United States — Kansas (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ks.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 13,
+      "sizeBytes": 1842963,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ky",
+      "name": "United States — Kentucky (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ky.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 24,
+      "sizeBytes": 2533409,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-la",
+      "name": "United States — Louisiana (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-la.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 31,
+      "sizeBytes": 2426587,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-me",
+      "name": "United States — Maine (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-me.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 6,
+      "sizeBytes": 793535,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-md",
+      "name": "United States — Maryland (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-md.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 7,
+      "sizeBytes": 1011411,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ma",
+      "name": "United States — Massachusetts (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ma.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 17,
+      "sizeBytes": 2027737,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-mi",
+      "name": "United States — Michigan (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-mi.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 31,
+      "sizeBytes": 3085633,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-mn",
+      "name": "United States — Minnesota (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-mn.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 18,
+      "sizeBytes": 1215083,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ms",
+      "name": "United States — Mississippi (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ms.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 17,
+      "sizeBytes": 2380357,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-mo",
+      "name": "United States — Missouri (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-mo.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 28,
+      "sizeBytes": 2699895,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-mt",
@@ -76,7 +285,18 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 7,
       "sizeBytes": 1085559,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ne",
+      "name": "United States — Nebraska (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ne.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 7,
+      "sizeBytes": 437586,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-nv",
@@ -87,7 +307,29 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 26,
       "sizeBytes": 890623,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-nh",
+      "name": "United States — New Hampshire (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-nh.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 8,
+      "sizeBytes": 1027825,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-nj",
+      "name": "United States — New Jersey (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-nj.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 8,
+      "sizeBytes": 639297,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-nm",
@@ -98,7 +340,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 10,
       "sizeBytes": 530052,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-ny",
@@ -109,7 +351,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 43,
       "sizeBytes": 2980683,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-nc",
@@ -120,7 +362,40 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 40,
       "sizeBytes": 3668327,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-nd",
+      "name": "United States — North Dakota (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-nd.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 6,
+      "sizeBytes": 544530,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-oh",
+      "name": "United States — Ohio (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-oh.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 26,
+      "sizeBytes": 2780066,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ok",
+      "name": "United States — Oklahoma (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ok.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 21,
+      "sizeBytes": 1277527,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-or",
@@ -131,7 +406,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 21,
       "sizeBytes": 1554911,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-pa",
@@ -142,7 +417,51 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 42,
       "sizeBytes": 2415721,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-pr",
+      "name": "United States — Puerto Rico (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-pr.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 6,
+      "sizeBytes": 622976,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-ri",
+      "name": "United States — Rhode Island (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-ri.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 4,
+      "sizeBytes": 37602,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-sc",
+      "name": "United States — South Carolina (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-sc.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 20,
+      "sizeBytes": 2001695,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-sd",
+      "name": "United States — South Dakota (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-sd.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 3,
+      "sizeBytes": 288818,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-tn",
@@ -153,7 +472,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 22,
       "sizeBytes": 2423428,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-tx",
@@ -164,7 +483,18 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 106,
       "sizeBytes": 6496406,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-vi",
+      "name": "United States — US Virgin Islands (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-vi.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 3,
+      "sizeBytes": 504755,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-ut",
@@ -175,7 +505,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 18,
       "sizeBytes": 264927,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-vt",
@@ -186,7 +516,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 3,
       "sizeBytes": 471320,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-va",
@@ -197,7 +527,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 20,
       "sizeBytes": 1927358,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-wa",
@@ -208,7 +538,40 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 49,
       "sizeBytes": 1583750,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-dc",
+      "name": "United States — Washington DC (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-dc.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 15,
+      "sizeBytes": 227651,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-wv",
+      "name": "United States — West Virginia (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-wv.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 9,
+      "sizeBytes": 1370618,
+      "updatedAt": 1781025030550
+    },
+    {
+      "id": "us-wi",
+      "name": "United States — Wisconsin (FAA)",
+      "country": "US",
+      "format": "openair",
+      "url": "https://kayo261.github.io/cloudbase-airspace/us-wi.openair",
+      "attribution": "Airspace data: FAA (public domain) — not for navigation",
+      "airspaceCount": 18,
+      "sizeBytes": 2759524,
+      "updatedAt": 1781025030550
     },
     {
       "id": "us-wy",
@@ -219,7 +582,7 @@
       "attribution": "Airspace data: FAA (public domain) — not for navigation",
       "airspaceCount": 4,
       "sizeBytes": 485933,
-      "updatedAt": 1781016654957
+      "updatedAt": 1781025030550
     }
   ]
 }
